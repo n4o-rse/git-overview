@@ -1,3 +1,3 @@
-name,link,group,organisation,maintainer,subjects,cff
-"git-overview","https://github.com/n4o-rse/git-overview","https://github.com/n4o-rse/","CC RSE NFDI4Objects","Florian Thiery, Lutz Schubert","catalogue","https://github.com/n4o-rse/git-overview/blob/main/CITATION.cff"
-"ta2-prov-tools-services-matrix","https://github.com/n4o-rse/ta2-prov-tools-services-matrix","https://github.com/n4o-rse/","TA 2","Berthold, von Hagel, Zöllner, Thiery","Provenienzforschung","https://github.com/n4o-rse/ta2-prov-tools-services-matrix/blob/main/CITATION.cff"
+id,name,link,group,organisation,maintainer,subjects,cff
+1,"git-overview","https://github.com/n4o-rse/git-overview","https://github.com/n4o-rse/","CC RSE NFDI4Objects","Florian Thiery, Lutz Schubert","catalogue","https://github.com/n4o-rse/git-overview/blob/main/CITATION.cff"
+2,"ta2-prov-tools-services-matrix","https://github.com/n4o-rse/ta2-prov-tools-services-matrix","https://github.com/n4o-rse/","TA 2","Berthold, von Hagel, Zöllner, Thiery","Provenienzforschung","https://github.com/n4o-rse/ta2-prov-tools-services-matrix/blob/main/CITATION.cff"
