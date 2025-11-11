@@ -1,3 +1,5 @@
 id,name,link,group,organisation,maintainer,subjects,cff
 1,"git-overview","https://github.com/n4o-rse/git-overview","https://github.com/n4o-rse/","CC RSE NFDI4Objects","Florian Thiery, Lutz Schubert","catalogue","https://github.com/n4o-rse/git-overview/blob/main/CITATION.cff"
 2,"ta2-prov-tools-services-matrix","https://github.com/n4o-rse/ta2-prov-tools-services-matrix","https://github.com/n4o-rse/","TA 2","Berthold, von Hagel, Zöllner, Thiery","Provenienzforschung","https://github.com/n4o-rse/ta2-prov-tools-services-matrix/blob/main/CITATION.cff"
+3,"Alligator - Allen Transformer","https://github.com/leiza-rse/alligator","https://github.com/leiza-rse/","LEIZA","Thiery, Mees","Computational Archaeology","https://github.com/leiza-rse/alligator/blob/master/CITATION.cff"
+4,"re3dragon","https://github.com/leiza-rse/re3dragon","https://github.com/leiza-rse/","LEIZA","Thiery","Computational Archaeology","https://github.com/leiza-rse/re3dragon/blob/master/CITATION.cff"
