@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: NFDI4Objects git Universe
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Florian
+    family-names: Thiery
+    email: florian.thiery@leiza.de
+    affiliation: LEIZA
+    orcid: 'https://orcid.org/0000-0002-3246-3531'
+identifiers:
+  - type: url
+    value: 'https://github.com/n4o-rse/git-overview'
+    description: GitHub Repository
+repository-code: 'https://github.com/n4o-rse/git-overview'
+keywords:
+  - NFDI4Objects
+  - Research Software Engineering
+  - Git Catalogue
+license: MIT
