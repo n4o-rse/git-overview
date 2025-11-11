@@ -8,3 +8,6 @@ id,name,link,organisation,maintainer,subjects,type
 7,"Leibniz-Zentrum für Archäologie","https://github.com/leiza-scit","LEIZA","Mees et al.","archaeology","Organisation"
 8,"Gemeinsamer Bibliotheksverbund","https://github.com/gbv","GBV/VZG","Dührkohp et al.","...","Organisation"
 9,"Deutsches Archäologisches Institut","https://github.com/dainst","DAI","Ducke et al.","...","Organisation"
+10,"Leibniz-Zentrum für Archäologie (LEIZA)","https://github.com/rgzm","LEIZA","Mees et al.","...","Organisation"
+11,"Linked Open Ogham","https://github.com/LinkedOpenOgham","Research Squirrels","Thiery et al.","Ogham","Community"
+12,"archaeonatural.cloud","https://github.com/archaeonatural-cloud/","CAU Kiel","thor Straten, Thiery","TA3","Community"
