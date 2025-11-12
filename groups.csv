@@ -1,7 +1,7 @@
 id,name,link,git_type,organisation,maintainer,subjects,type
 1,"NFDI4Objects","https://github.com/nfdi4objects/","GitHub","NFDI4Objects","Fabian Fricke, Jacob Voß, Florian Thiery","NFDI, ...","N4O Core"
 2,"NFDI4Objects","https://gitlab.rlp.net/n4o","GitLab RLP","HS Mainz","Kai-Christian Bruhn, ...","Website, OER","N4O Core"
-3,"NFDI4Objects | Research Software Engineering Projects","GitHub","https://github.com/n4o-rse/","CC RSE NFDI4Objects","Florian Thiery, Lutz Schubert","RDM, Computing Archaeology","N4O Community"
+3,"NFDI4Objects | Research Software Engineering Projects","https://github.com/n4o-rse/","GitHub","CC RSE NFDI4Objects","Florian Thiery, Lutz Schubert","RDM, Computing Archaeology","N4O Community"
 4,"Deutsches Archäologisches Institut","https://github.com/dainst","GitHub","DAI","Ducke et al.","...","Organisation"
 5,"Gemeinsamer Bibliotheksverbund","https://github.com/gbv","GitHub","GBV/VZG","Dührkohp et al.","...","Organisation"
 6,"Leibniz-Zentrum für Archäologie | Department Scientific IT | Research Software Engineering","https://github.com/leiza-rse","GitHub","LEIZA","Mees et al.","archaeology","Organisation"
